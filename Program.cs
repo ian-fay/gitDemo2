@@ -6,7 +6,7 @@ namespace gitDemo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! This is a test file!");
         }
     }
 }
